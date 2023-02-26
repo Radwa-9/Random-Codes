@@ -1,4 +1,4 @@
-# MyProject
+# Random Codes
 This project contains 3 codes about three different problems.
 The first problem is about finding the nth occurrence of a word in a string.
 The second problem is about Simple String Matching.
